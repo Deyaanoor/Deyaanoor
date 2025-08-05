@@ -1,85 +1,86 @@
-<h1 align="center">Hi 👋, I'm Deyaa Bani Jaber</h1>
-<h3 align="center">Computer Engineering Graduate | Flutter & AI Developer | Frontend Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Deyaa Bani Jaber</h1>
+<h3 align="center">Full Stack, Mobile & AI Developer | Computer Engineering Graduate | Passionate about Building Smart Solutions</h3>
 
 <p align="center">
-  <a href="mailto:deyaanoor3@gmail.com"><img src="https://img.shields.io/badge/Email-deyaanoor3@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/deyaa-bani-jaber"><img src="https://img.shields.io/badge/LinkedIn-Deyaa_Bani_Jaber-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/deyaa-Bani-Jaber"><img src="https://img.shields.io/github/followers/deyaa-Bani-Jaber?label=GitHub&style=flat-square&logo=github"></a>
+  <a href="mailto:deyaanoor3@gmail.com"><img src="https://img.shields.io/badge/Gmail-deyaanoor3@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deyaa-banijaber"><img src="https://img.shields.io/badge/LinkedIn-Deyaa%20Bani%20Jaber-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Deyaanoor"><img src="https://img.shields.io/badge/GitHub-Deyaanoor-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me
 
-🎓 I’m a **Computer Engineering graduate** from An-Najah National University (2025)  
-💡 I’m passionate about **Mobile App Development**, **Artificial Intelligence**, and **Frontend Web Development**  
-🛠️ I’ve completed multiple **certified trainings** in AI, Flutter, and Computer Vision  
-💼 I recently finished an internship at **ITG Software** as a Frontend Developer  
-🚀 I love building real-world projects and solving problems with code  
-📍 Based in Nablus, Palestine
-
----
-
-### 🧠 Skills & Technologies:
-
-**Languages:**  
-`Python` `JavaScript` `Dart` `Java` `C++` `C#` `PHP` `HTML` `CSS` `SQL` `SASS`
-
-**Frameworks & Libraries:**  
-`Flutter` `React` `Redux Toolkit` `Node.js` `Next.js` `TensorFlow` `GraphQL` `TypeScript`
-
-**Tools & Platforms:**  
-`Firebase` `Stripe` `MongoDB` `Git` `GitHub` `Bootstrap`
+🎓 Computer Engineering Graduate from **An-Najah National University – 2025**  
+🛠️ I build end-to-end applications combining **mobile development**, **AI**, and **web technologies**  
+🌟 Passionate about building smart, scalable, and efficient solutions  
+💼 Completed internship at **ITG Software** as a React developer  
+🚀 Love turning complex ideas into user-friendly systems  
+📍 Based in Nablus, Palestine  
 
 ---
 
-### 🚀 Projects & Repositories:
+### 🧠 Tech Stack
+
+**Languages**  
+`Python` `Dart` `JavaScript` `Java` `C++` `C#` `PHP` `HTML` `CSS` `SQL`
+
+**Frameworks & Libraries**  
+`Flutter` `TensorFlow` `React` `Node.js` `Redux Toolkit` `GraphQL` `TypeScript`
+
+**Tools & Platforms**  
+`Firebase` `Stripe` `MongoDB` `Prisma` `Git & GitHub` `Bootstrap` `Next.js`
+
+---
+
+### 🚀 Projects Showcase
 
 | Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Graduation Project – Mechanic Workshop Management System** | Flutter-based mobile/web app with AI fault detection & dashboard recognition | Flutter, Node.js, Firebase, Stripe, AI | [View Repo](https://github.com/deyaa-Bani-Jaber/Graduation-Project) |
-| **School Management System** | Attendance, scheduling, and store management for 100+ students | React, Redux Toolkit, Firebase | [View Repo](https://github.com/deyaa-Bani-Jaber/School-Management-System) |
-| **Villages Management System** | Resident & infrastructure tracking system | React, TypeScript, Node.js, GraphQL, MongoDB | [View Repo](https://github.com/deyaa-Bani-Jaber/Villages-Management-System) |
-| **Image Classifier Project** | AI model with user interface for image classification | Python, TensorFlow | [View Repo](https://github.com/deyaa-Bani-Jaber/Image-Classifier-Project) |
+|--------|-------------|--------|------|
+| 🛠️ **Mechanic Workshop System** | Full-stack Flutter app with AI fault diagnosis and payment integration | Flutter, Node.js, Firebase, Stripe, AI | [GitHub](https://github.com/Deyaanoor/Graduation-Project) |
+| 🎓 **School Management System** | Admin dashboard to manage attendance, scheduling, and store | React, Redux Toolkit, Firebase | [GitHub](https://github.com/Deyaanoor/School-Management-System) |
+| 🌍 **Villages Management System** | Infrastructure and population tracking web platform | React, TypeScript, Node.js, GraphQL, MongoDB | [GitHub](https://github.com/Deyaanoor/Villages-Management-System) |
+| 🧠 **Image Classifier Project** | AI model for image classification + simple user interface | Python, TensorFlow | [GitHub](https://github.com/Deyaanoor/Image-Classifier-Project) |
 
-🔗 View more on my [GitHub profile](https://github.com/deyaa-Bani-Jaber)
-
----
-
-### 🎓 Courses & Certifications:
-
-- **AI Programming with Python and TensorFlow** – Udacity  
-- **Mobile App Development with Flutter** – The Hope International  
-- **Computer Vision Training** – Gaza Sky Geeks  
-- *(All certificates available upon request or in project repositories)*
+➡️ Explore more on my [GitHub profile](https://github.com/Deyaanoor)
 
 ---
 
-### 📄 Resume:
+### 📄 Resume
 
-📥 [Click here to view/download my CV](https://drive.google.com/file/d/1BVOoIJl63ANrJQWyLOLQoks_9zgu-NZR/view?usp=drive_link)
+📎 [Click here to view/download my CV](https://drive.google.com/file/d/1BVOoIJl63ANrJQWyLOLQoks_9zgu-NZR/view?usp=drive_link)
 
 ---
 
-### 📊 GitHub Stats:
+### 🧾 Certifications & Training
+
+- 🧠 AI Programming with Python and TensorFlow – *Udacity*
+- 📱 Mobile App Development with Flutter – *The Hope International*
+- 🎯 Computer Vision Training – *Gaza Sky Geeks*
+
+> Certificates and project implementations are available in the respective repositories.
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deyaa-Bani-Jaber&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deyaanoor&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Deyaanoor&theme=tokyonight" width="48%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deyaa-Bani-Jaber&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyaa-Bani-Jaber&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyaanoor&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🤝 Let's Connect:
+### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deyaa-banijaber)  
-- 📧 [Email](mailto:deyaanoor3@gmail.com)  
-- 🧠 [GitHub](https://github.com/Deyaanoor)  
+- 📫 Email: [deyaanoor3@gmail.com](mailto:deyaanoor3@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/deyaa-banijaber](https://www.linkedin.com/in/deyaa-banijaber)  
+- 🧠 GitHub: [github.com/Deyaanoor](https://github.com/Deyaanoor)
 
 ---
 
-### ⚡ Fun Fact:
-> I love swimming, fitness, and participating in community tech activities.
+### ⚡ Fun Fact
+
+> I enjoy building smart solutions that combine code and creativity. When I'm not coding, you'll find me swimming, staying active, or involved in my community.
