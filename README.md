@@ -70,7 +70,7 @@
 
 ## 📄 Resume
 
-📎 [Click here to view/download my CV](https://drive.google.com/file/d/1E6eXqNSz4tIExNwhwY1Z2u0ALHfFvW1y/view?usp=drive_link)
+📎 [Click here to view/download my CV](https://drive.google.com/file/d/12J77-5QifhOLildHoC0VrY3osXTUrabo/view?usp=drive_link)
 
 ---
 
