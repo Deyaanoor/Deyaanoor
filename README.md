@@ -53,7 +53,7 @@
 | 🛠️ **Mechanic Workshop System** | Full-stack Flutter app with AI fault diagnosis and payment integration | Flutter, Node.js, Firebase, Stripe, AI | [GitHub](https://github.com/Deyaanoor/Graduation-project-software.git) |
 | 🎓 **School Management System** | Admin dashboard to manage attendance, scheduling, and store | React, Redux Toolkit, Firebase | [GitHub](https://github.com/Deyaanoor/SchoolSystem-React.git) |
 | 🌍 **Villages Management System** | Infrastructure and population tracking web platform | React, TypeScript, Node.js, GraphQL, MongoDB | [GitHub](https://github.com/Deyaanoor/Village_Management_System) |
-| 🧠 **Image Classifier Project** | AI model for image classification + simple user interface | Python, TensorFlow | [GitHub](https://github.com/Deyaanoor/Image-Classifier-Project) |
+| 🧠 **Image Classifier Project** | AI model for image classification + simple user interface | Python, TensorFlow | [GitHub](https://github.com/Deyaanoor/p2_image_classifier.git) |
 
 📂 Explore more on [GitHub](https://github.com/Deyaanoor)
 
