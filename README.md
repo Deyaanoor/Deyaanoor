@@ -60,10 +60,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deyaanoor&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deyaanoor&show_icons=true&theme=radical&include_all_commits=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Deyaanoor&theme=radical" width="48%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyaanoor&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyaanoor&layout=compact&theme=radical&hide=html,css&exclude_repo=repository-name" width="48%" />
 </p>
 
 ---
